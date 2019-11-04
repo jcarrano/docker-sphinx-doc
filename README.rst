@@ -1,7 +1,7 @@
 Sphinx documentation - Docker image
 ===================================
 
-.. image:: https://img.shields.io/docker/automated/jcarrano/sphinx-doc?style=for-the-badge
+.. image:: https://img.shields.io/docker/cloud/automated/jcarrano/sphinx-doc.svg?style=for-the-badge
   :alt: Docker Automated build
   :target: https://hub.docker.com/r/jcarrano/sphinx-doc
 
